@@ -11,7 +11,7 @@ export const Body = () => {
             <div>
               <h1>Create Components</h1>
               <p className="p">
-                Start off your project by creating and naming your first component. Interact with it in the CSS Container.
+                Quickly start your project by creating and naming your first component. Interact with it in the CSS Container.
               </p>
             </div>
           </HeadTwoStyle>

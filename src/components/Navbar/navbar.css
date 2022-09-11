@@ -1,0 +1,26 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    background: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+
+}
+
+.nav__logo {
+    width: 100%;
+    max-width: 60px;
+}
+
+.nav__actions {
+    display: flex;
+    justify-content: space-around;
+}
+.nav__action {
+    font-weight: 600;
+    text-decoration: none;
+    color: black;
+}
